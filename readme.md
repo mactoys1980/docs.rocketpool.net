@@ -4,7 +4,7 @@
 
 # docs.rocketpool.net
 
-Rocket Pool Documentation Hub - Features Guides, FAQs, API Reference and more. It is written in [Rspress](https://rspress.dev/).
+Rocket Pool Documentation Hub - Features Guides, FAQs, API Reference and more. It is written in [Rsspress](https://rspress.dev/).
 
 We welcome all contributions! Please refer to our [contribution guidelines](./contributing.md).
 
